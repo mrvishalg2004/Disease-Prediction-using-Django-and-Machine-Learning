@@ -1,6 +1,6 @@
 # Disease Prediction using Django and Machine Learning 🌡️🔬
 
-![Project Banner](templates/demo.png)
+![demo ](https://github.com/mrvishalg2004/Disease-Prediction-using-Django-and-Machine-Learning/assets/135511723/2df6c5d2-15aa-431e-9762-0dc8394bf07d)#
 
 ## Table of Contents
 - [About](#about)
