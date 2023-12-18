@@ -1,7 +1,6 @@
-![demo ](https://github.com/mrvishalg2004/Disease-Prediction-using-Django-and-Machine-Learning/assets/135511723/2df6c5d2-15aa-431e-9762-0dc8394bf07d)# Disease Prediction using Django and Machine Learning 🌡️🔬
+# Disease Prediction using Django and Machine Learning 🌡️🔬
 
-![Project Banner](templates/demo .png)
-
+![Project Banner](templates/demo.png)
 
 ## Table of Contents
 - [About](#about)
@@ -12,8 +11,8 @@
   - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
 - [License](#license)
-
 ## About ℹ️
 This project aims to predict diseases using machine learning techniques integrated with a web application built using Django. The application allows users to input relevant medical information and, based on this data, predicts potential diseases or health conditions. This can serve as a preliminary diagnostic tool for users and help them make informed decisions about seeking medical advice.
 
