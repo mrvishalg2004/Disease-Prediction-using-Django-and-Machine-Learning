@@ -17,7 +17,7 @@
 This project aims to predict diseases using machine learning techniques integrated with a web application built using Django. The application allows users to input relevant medical information and, based on this data, predicts potential diseases or health conditions. This can serve as a preliminary diagnostic tool for users and help them make informed decisions about seeking medical advice.
 
 ## Demo 📺
-Provide a link to a live demo of your project here, or alternatively, showcase screenshots or a GIF/video that demonstrates the project's functionality.
+Avalilable Soon
 
 ## Key Features ✨
 - User-friendly web interface for entering medical data.
